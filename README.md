@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 ![dainiellim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dainiellim&theme=default&show_icons=true&hide_border=true&layout=compact)
 
+![dainiellim's Express JS Boilerplate](https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=express-boilerplate)
+
 
 
