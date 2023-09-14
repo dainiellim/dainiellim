@@ -1,23 +1,16 @@
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)DAINIEL<img src="./img/wave.gif" width="30px" height="30px" />
 <!--
-**dainiellim/dainiellim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
-![dainiellim's Stats](https://github-readme-stats.vercel.app/api?username=dainiellim&theme=default&show_icons=true&hide_border=false&count_private=true) 
-
-![dainiellim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dainiellim&theme=default&hide_border=false)
-
-![dainiellim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dainiellim&theme=default&show_icons=true&hide_border=false&layout=compact)
-
-![dainiellim's Express JS Boilerplate](https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=express-boilerplate)
-![dainiellim's Portfolio](https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=portfolio)
+# About Me <img src="./img/about.gif" height="48px">
+<table>
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainiellim&theme=default&hide_border=true&layout=compact" alt="dainiellim" /></td>
+    <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dainiellim&theme=default&hide_border=true" alt="dainiellim" /> </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=express-boilerplate" alt="dainiellim" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=portfolio" alt="dainiellim" /> </td>
+  </tr>
+</table>
