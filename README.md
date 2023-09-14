@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ![dainiellim's Stats](https://github-readme-stats.vercel.app/api?username=dainiellim&theme=default&show_icons=true&hide_border=false&count_private=true) 
 
-![dainiellim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dainiellim&theme=default&hide_border=true)
+![dainiellim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dainiellim&theme=default&hide_border=false)
 
-![dainiellim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dainiellim&theme=default&show_icons=true&hide_border=true&layout=compact)
+![dainiellim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dainiellim&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ![dainiellim's Express JS Boilerplate](https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=express-boilerplate)
 
