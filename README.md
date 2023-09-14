@@ -16,7 +16,7 @@
       </a>
     </td>
       <td> 
-        <a href="https://github.com/dainiellim/express-boilerplate"> 
+        <a href="https://github.com/dainiellim/portfolio"> 
           <img src="https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=portfolio" alt="dainiellim" /> 
         </a>
     </td>
