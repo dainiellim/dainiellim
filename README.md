@@ -10,7 +10,15 @@
 </table>
 <table>
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=express-boilerplate" alt="dainiellim" /></td>
-    <td> <img src="https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=portfolio" alt="dainiellim" /> </td>
+    <td> 
+      <a href="https://github.com/dainiellim/express-boilerplate"> 
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=express-boilerplate" alt="dainiellim" />
+      </a>
+    </td>
+      <td> 
+        <a href="https://github.com/dainiellim/express-boilerplate"> 
+          <img src="https://github-readme-stats.vercel.app/api/pin?username=dainiellim&repo=portfolio" alt="dainiellim" /> 
+        </a>
+    </td>
   </tr>
 </table>
