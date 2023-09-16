@@ -1,7 +1,8 @@
 # ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)DAINIEL<img src="./img/wave.gif" width="30px" height="30px" />
 <!--
+<img src="./img/about.gif" height="48px">
 -->
-# About Me <img src="./img/about.gif" height="48px">
+# About Me 
 <table>
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dainiellim&theme=default&hide_border=true&layout=compact" alt="dainiellim" /></td>
