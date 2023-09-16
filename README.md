@@ -11,6 +11,8 @@
     <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dainiellim&theme=default&hide_border=true" alt="dainiellim" /> </td>
   </tr>
 </table>
+
+# Highlights
 <table>
   <tr>
     <td> 
