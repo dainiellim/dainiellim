@@ -14,8 +14,8 @@ Expertise 💻
 
 *  React: Skilled in developing engaging and responsive user interfaces using React, enhancing the user experience.
 
-# Portfolio
-https://ai-todo-app-ecru.vercel.app/
+# Sample Works
+AI TODO APP: https://ai-todo-app-ecru.vercel.app/
 
 # Stats 
 
